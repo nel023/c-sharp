@@ -1,0 +1,15 @@
+D:\Repositories\Personal-Project\C#\TestProject\bin\Debug\net7.0\TestProject.exe
+D:\Repositories\Personal-Project\C#\TestProject\bin\Debug\net7.0\TestProject.deps.json
+D:\Repositories\Personal-Project\C#\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+D:\Repositories\Personal-Project\C#\TestProject\bin\Debug\net7.0\TestProject.dll
+D:\Repositories\Personal-Project\C#\TestProject\bin\Debug\net7.0\TestProject.pdb
+D:\Repositories\Personal-Project\C#\TestProject\obj\Debug\net7.0\TestProject.csproj.AssemblyReference.cache
+D:\Repositories\Personal-Project\C#\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Personal-Project\C#\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+D:\Repositories\Personal-Project\C#\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+D:\Repositories\Personal-Project\C#\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+D:\Repositories\Personal-Project\C#\TestProject\obj\Debug\net7.0\TestProject.dll
+D:\Repositories\Personal-Project\C#\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+D:\Repositories\Personal-Project\C#\TestProject\obj\Debug\net7.0\TestProject.pdb
+D:\Repositories\Personal-Project\C#\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+D:\Repositories\Personal-Project\C#\TestProject\obj\Debug\net7.0\ref\TestProject.dll
